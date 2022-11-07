@@ -9,7 +9,9 @@ export default {
 </script>
 
 <template scoped>
-<h2>Odio il setup di Vite!!</h2>
+    <div>
+        <img src="../assets/napolimilano.jpg" alt="">
+    </div>
 </template>
 
 <style scoped>
